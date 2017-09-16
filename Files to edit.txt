@@ -1,0 +1,13 @@
+The ONLY files you should edit in this directory are:
+- server.properties
+- bukkit.yml
+- spigot.yml
+
+All other files are deleted / not used.
+
+Please ensure you do not change core functionality in these folders. All these files are diff checked, so changes *will* be picked up.
+
+If core functionality is continously disabled, we may no longer accept submissions from you.
+
+Thanks,
+-Picks

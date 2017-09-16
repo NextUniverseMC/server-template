@@ -1,0 +1,5 @@
+The server comes with a few plugins pre-installed (i.e. you don't need to install them except for testing)
+- ProtocolSupport (Custom Build - Based on the latest Github commit)
+- Vault (Latest)
+- PermissionsEx (Latest)
+- ProtocolLib (Latest)
